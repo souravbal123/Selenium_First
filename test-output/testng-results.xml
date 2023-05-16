@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-20T15:29:18 IST" name="Default suite" finished-at="2023-04-20T15:30:15 IST" duration-ms="56407">
+    <groups>
+    </groups>
+    <test started-at="2023-04-20T15:29:18 IST" name="Default test" finished-at="2023-04-20T15:30:15 IST" duration-ms="56407">
+      <class name="datadriventesting.DDT_DP_Excel_Login_Validation">
+        <test-method signature="Login_valid(java.lang.String,java.lang.String)[pri:0, instance:datadriventesting.DDT_DP_Excel_Login_Validation@7ed7259e]" started-at="2023-04-20T15:29:19 IST" name="Login_valid" data-provider="login_validation" finished-at="2023-04-20T15:29:37 IST" duration-ms="17608" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sourav_kumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sourav@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_valid -->
+        <test-method signature="Login_valid(java.lang.String,java.lang.String)[pri:0, instance:datadriventesting.DDT_DP_Excel_Login_Validation@7ed7259e]" started-at="2023-04-20T15:29:37 IST" name="Login_valid" data-provider="login_validation" finished-at="2023-04-20T15:29:55 IST" duration-ms="18518" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sai_kumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Saikumar@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_valid -->
+        <test-method signature="Login_valid(java.lang.String,java.lang.String)[pri:0, instance:datadriventesting.DDT_DP_Excel_Login_Validation@7ed7259e]" started-at="2023-04-20T15:29:55 IST" name="Login_valid" data-provider="login_validation" finished-at="2023-04-20T15:30:15 IST" duration-ms="19545" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[satishk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Satishk@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_valid -->
+      </class> <!-- datadriventesting.DDT_DP_Excel_Login_Validation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
